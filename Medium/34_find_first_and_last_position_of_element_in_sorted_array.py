@@ -1,3 +1,5 @@
+#Solution by dannyhp
+
 def searchRange(self, nums: List[int], target: int) -> List[int]:
     # Algorithm must be in O(log n) ==> binary search.
     if len(nums) < 1:
