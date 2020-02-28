@@ -25,5 +25,9 @@ Solutions provided by members of my slack channel: https://join.slack.com/t/xavi
 
 
 
-
+### LeetCode Hard ###
+                                                
+|       DS/A        |                                            Github Solution/LeetcodeLink                      |                                                   Youtube Explanation                                        | 
+|------------------:|:--------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
+|             |  |                |
 
